@@ -9,10 +9,10 @@ package com.klikli_dev.modonomicon_demo_book.datagen.lang;
 import net.minecraft.data.PackOutput;
 import net.minecraftforge.common.data.LanguageProvider;
 
-public class EsEsProvider extends LanguageProvider {
+public class ZhCnProvider extends LanguageProvider {
 
-    public EsEsProvider(PackOutput packOutput, String modid) {
-        super(packOutput, modid, "es_es");
+    public ZhCnProvider(PackOutput packOutput, String modid) {
+        super(packOutput, modid, "zh_cn");
     }
 
     protected void addTranslations() {

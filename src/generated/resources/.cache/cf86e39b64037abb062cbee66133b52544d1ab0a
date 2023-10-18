@@ -1,4 +1,4 @@
-// 1.20.1	2023-07-03T08:20:28.5744642	Books: modonomicon_demo_book
-cdf430382262dade20ada6965768428c3dc7c7f8 data/modonomicon_demo_book/modonomicon/books/demo/book.json
-3897163ead6fed1708226f0b7bb08e244bef5424 data/modonomicon_demo_book/modonomicon/books/demo/categories/features.json
-fe0a269ab0778ba85f8b4786bf058c573998ed38 data/modonomicon_demo_book/modonomicon/books/demo/entries/features/multiblock.json
+// 1.20.1	2023-10-18T21:03:28.371914	Books: modonomicon_demo_book
+f17d855a680234faec34542b92a2351a5216cd45 data/modonomicon_demo_book/modonomicon/books/new_horizon_tutorials_book/book.json
+a83a09fbef7e9459e87dbafbd012170f7e1e0800 data/modonomicon_demo_book/modonomicon/books/new_horizon_tutorials_book/categories/tutorials_category.json
+2cf489ee78b34f3ad57c79214fb98e3d9992fa05 data/modonomicon_demo_book/modonomicon/books/new_horizon_tutorials_book/entries/tutorials_category/text.json
